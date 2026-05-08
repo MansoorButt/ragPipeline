@@ -1,0 +1,31 @@
+# FastAPI & Web Framework
+fastapi
+uvicorn
+python-multipart
+
+# Azure Services
+azure-storage-blob
+azure-data-tables
+azure-core
+
+# LangChain Core & Community
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+
+# LangChain Providers
+langchain-groq
+langchain-pinecone
+
+# Vector Database
+pinecone-client
+
+# PDF Processing
+pypdf
+
+# Utilities
+python-dotenv
+pydantic
+requests
